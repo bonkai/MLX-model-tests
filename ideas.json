@@ -1,0 +1,137 @@
+[
+  {
+    "project_name": "Debt_Paydown_Blueprint",
+    "app_idea": "Users enter debts + minimums. App generates avalanche/snowball plans, payoff calendar, and weekly 'what to pay next' checklist. Exports a simple PDF plan to share with a spouse.",
+    "marketing_angle": "Stop guessing. Get a debt payoff plan you can follow week-by-week and watch your balances finally drop."
+  },
+  {
+    "project_name": "Contract_Red_Flag_AI",
+    "app_idea": "Users upload contracts. App highlights risky clauses, auto-renews, and hidden fees in plain English with red/yellow/green indicators.",
+    "marketing_angle": "Stop signing contracts you don't understand. See the red flags in plain English before it's too late."
+  },
+  {
+    "project_name": "Subscription_Death_Ray",
+    "app_idea": "Scans inbox for subscription receipts and renewal notices. Builds a dashboard of all recurring charges, shows monthly burn, and generates cancel scripts/emails.",
+    "marketing_angle": "You're bleeding money on subscriptions. Scan your inbox, see everything you're paying for, and kill what you don't need."
+  },
+  {
+    "project_name": "Resume_ATS_Optimizer",
+    "app_idea": "Upload resume + job description. AI rewrites bullet points to pass ATS filters and outputs tailored versions.",
+    "marketing_angle": "Your resume is being rejected by robots. Fix it in 30 seconds and get more interviews."
+  },
+  {
+    "project_name": "LinkedIn_Profile_Booster",
+    "app_idea": "AI rewrites LinkedIn headlines, about sections, and experience for recruiter keywords with multiple tone variants.",
+    "marketing_angle": "Your LinkedIn is your billboard. Rewrite it in 2 minutes and get more recruiter messages."
+  },
+  {
+    "project_name": "AI_Accountability_Partner",
+    "app_idea": "AI texts users daily via SMS/WhatsApp to enforce habits, track streaks, and celebrate wins.",
+    "marketing_angle": "Your resolutions are dying. Get an AI partner that texts you every day until you stick to your goals."
+  },
+  {
+    "project_name": "Gig_Tax_Swipe",
+    "app_idea": "Users swipe transactions as business or personal and export accountant-ready CSVs.",
+    "marketing_angle": "Finish months of bookkeeping in 20 minutes."
+  },
+  {
+    "project_name": "Faceless_YT_Pipeline",
+    "app_idea": "AI toolkit to generate scripts, voiceovers, and image prompts for faceless YouTube channels.",
+    "marketing_angle": "Start a faceless YouTube channel this weekend."
+  },
+  {
+    "project_name": "Unsubscribe_from_2026",
+    "app_idea": "Users forward promo emails. AI finds unsubscribe links and enables bulk removal.",
+    "marketing_angle": "Clean your inbox in one click."
+  },
+  {
+    "project_name": "Monk_Mode_Hardcore",
+    "app_idea": "Locks phone into focus mode; breaking it triggers a monetary penalty.",
+    "marketing_angle": "Lock your phone. If you break, you pay."
+  },
+  {
+    "project_name": "Resolution_Life_OS",
+    "app_idea": "Premium Notion workspace for habits, goals, tasks, and finance.",
+    "marketing_angle": "One dashboard for your entire life."
+  },
+  {
+    "project_name": "Job_App_Speedrunner",
+    "app_idea": "Chrome extension that auto-fills and drafts job application answers using AI.",
+    "marketing_angle": "Apply to 50 jobs in the time it takes to apply to 1."
+  },
+  {
+    "project_name": "AI_Interview_Coach",
+    "app_idea": "Mock behavioral interviews with AI scoring and feedback.",
+    "marketing_angle": "Practice until you're ready to nail the real interview."
+  },
+  {
+    "project_name": "Dating_Profile_Lab",
+    "app_idea": "AI ranks dating photos and rewrites bios to optimize matches.",
+    "marketing_angle": "Better photos. Better bio. More matches."
+  },
+  {
+    "project_name": "Roast_My_Hinge",
+    "app_idea": "AI roasts dating profiles, then rewrites them for higher conversion.",
+    "marketing_angle": "It might be your profile. Let AI fix it."
+  },
+  {
+    "project_name": "Offer_Compare_AI",
+    "app_idea": "Side-by-side comparison of job offers including salary, equity, and benefits.",
+    "marketing_angle": "See which offer is actually worth more."
+  },
+  {
+    "project_name": "Holiday_Hacker_2026",
+    "app_idea": "Calculates PTO strategies to maximize vacation days.",
+    "marketing_angle": "Turn 10 days of PTO into 35 days off."
+  },
+  {
+    "project_name": "Freelance_Quarterly_Tax_Pilot",
+    "app_idea": "Estimates quarterly tax payments and sends reminders.",
+    "marketing_angle": "Know exactly what to set aside so taxes don't wreck you."
+  },
+  {
+    "project_name": "Snap_to_eBay",
+    "app_idea": "Photo → pricing → SEO-optimized eBay listing text.",
+    "marketing_angle": "Snap a photo. Copy the text. Get paid."
+  },
+  {
+    "project_name": "Chef_Leftover_AI",
+    "app_idea": "Turns fridge photos into recipes using ingredients about to expire.",
+    "marketing_angle": "Stop throwing food away."
+  },
+  {
+    "project_name": "Side_Hustle_Validator",
+    "app_idea": "AI evaluates side-hustle ideas with brutal honesty and a viability score.",
+    "marketing_angle": "Find out if your idea is actually worth building."
+  },
+  {
+    "project_name": "Layoff_Survival_Kit",
+    "app_idea": "30-day survival plan for newly unemployed users.",
+    "marketing_angle": "A plan for your first month after a layoff."
+  },
+  {
+    "project_name": "Dry_January_Tracker",
+    "app_idea": "Gamified sobriety tracker with streaks and savings.",
+    "marketing_angle": "Track your Dry January wins."
+  },
+  {
+    "project_name": "Gym_Machine_Scanner",
+    "app_idea": "Point camera at gym machine to see how to use it instantly.",
+    "marketing_angle": "Never feel lost at the gym again."
+  },
+  {
+    "project_name": "BNPL_Crusher",
+    "app_idea": "Tracks Buy Now Pay Later payments to prevent overdrafts.",
+    "marketing_angle": "No more surprise Klarna hits."
+  },
+  {
+    "project_name": "SaaS_Starter_Kit",
+    "app_idea": "Paid boilerplate codebase for developers with auth, billing, and user dashboard pre-wired.",
+    "marketing_angle": "Skip weeks of boilerplate. Start your next SaaS with auth and billing already done."
+  },
+  {
+    "project_name": "Bill_Negotiation_Scripts",
+    "app_idea": "Users enter bill type (internet/phone/insurance) + current price + competitor price. AI generates call, chat, and objection-handling scripts. Tracks savings.",
+    "marketing_angle": "Save $50–$200/month with better scripts. Tell AI your bill and get a negotiation script in 30 seconds."
+  }
+]

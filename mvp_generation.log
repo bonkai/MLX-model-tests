@@ -1,0 +1,19 @@
+2025-12-10 12:40:10,314 [INFO] 🚀 Starting MVP Builder using huihui-ai/Huihui-Qwen3-Next-80B-A3B-Instruct-abliterated-mlx-4bit
+2025-12-10 12:40:12,631 [INFO] --- Processing Step: Define the MVP Core Features (creative) ---
+2025-12-10 12:40:12,635 [INFO]    generating (Attempt 1)...
+2025-12-10 12:40:15,169 [INFO]    ✅ Validation Passed
+2025-12-10 12:40:15,169 [INFO] --- Processing Step: Define the Page Structure (creative) ---
+2025-12-10 12:40:15,169 [INFO]    generating (Attempt 1)...
+2025-12-10 12:40:16,968 [INFO]    ✅ Validation Passed
+2025-12-10 12:40:16,968 [INFO] --- Processing Step: Identify Database Tables (strict) ---
+2025-12-10 12:40:16,968 [INFO]    generating (Attempt 1)...
+2025-12-10 12:40:17,703 [INFO]    ✅ Validation Passed
+2025-12-10 12:40:17,703 [INFO] --- Processing Step: Write the SQL Schema (strict) ---
+2025-12-10 12:40:17,703 [INFO]    generating (Attempt 1)...
+2025-12-10 12:40:22,596 [INFO]    ✅ Validation Passed
+2025-12-10 12:40:22,597 [INFO] --- Processing Step: Generate File Tree (strict) ---
+2025-12-10 12:40:22,597 [INFO]    generating (Attempt 1)...
+2025-12-10 12:40:25,267 [WARNING]    ❌ Validation Failed: Output missing keyword: 'app/'
+2025-12-10 12:40:25,267 [INFO]    generating (Attempt 2)...
+2025-12-10 12:40:28,075 [INFO]    ✅ Validation Passed
+2025-12-10 12:40:28,075 [INFO] 🏁 Finished. Output directory: outputs/mvp_20251210_124012
